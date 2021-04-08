@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dj-emailauth"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Martin Hloska <martin.hloska@gmail.com>"]
 
