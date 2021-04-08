@@ -1,14 +1,14 @@
-# dj-emailauth
+## dj-emailauth
 
 Email based authentication for django.
 
-## Installation
+### Installation
 
 ```
 pip install dj-emailauth
 ```
 
-## Configuration
+### Configuration
 
 In `settings.py`:
 
@@ -25,5 +25,4 @@ And set user model:
 
 ```
 AUTH_USER_MODEL = "dj_emailauth.User"
-
 ```
